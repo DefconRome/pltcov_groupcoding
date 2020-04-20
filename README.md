@@ -33,6 +33,7 @@ The workflow is the following:
 ## People
 
 + [**@andreafioraldi**](https://github.com/andreafioraldi)
++ [**@cristianrichie**](https://github.com/cristianassaiante)
 + [**@borzacchiello**](https://github.com/borzacchiello)
 + [**@dp1**](https://github.com/dp1)
 + [**@jotaro-sama**](https://github.com/jotaro-sama)
