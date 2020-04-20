@@ -27,6 +27,11 @@ The workflow is the following:
 + Fork this repo.
 + Add a folder with your name or nickname. You are allowed only to create/delete/modify files in this directory.
 + Open immediately a pull request (with you name or nickname as title). The PR will be automatically updated with the code that you pushed in your fork.
-+ At the end of the event, @andreafioraldi will merge *all* pull requests.
++ At the end of the event, **@andreafioraldi** will merge *all* pull requests.
 + During the following the week, the best portions of code produced by all will be merged to create the first version of the tool (in another repo of this organization).
 
+## People
+
++ [**@andreafioraldi**](https://github.com/andreafioraldi)
+
+Add yourself here when submitting the pull request.
