@@ -37,5 +37,6 @@ The workflow is the following:
 + [**@borzacchiello**](https://github.com/borzacchiello)
 + [**@dp1**](https://github.com/dp1)
 + [**@jotaro-sama**](https://github.com/jotaro-sama)
++ [**@pietroborrello**](https://github.com/pietroborrello)
 
 Add yourself here when submitting the pull request.
