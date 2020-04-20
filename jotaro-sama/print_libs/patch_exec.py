@@ -2,7 +2,12 @@ import lief
 #binary  = lief.parse("/usr/bin/ls")
 #library = lief.parse("/usr/lib/libc.so.6")
 
-binary = lief.parse("a.out")
+import sys
+
+bin_name = sys.argv[1]
+
+#binary = lief.parse("a.out")
+binary = lief.parse(bin_name)
 
 print(binary.imported_functions)
 #print(library.exported_functions)
