@@ -26,3 +26,8 @@ For intel syntax in asm, add this at the beginning:
 ```
 .intel_syntax noprefix
 ```
+
+How to not overflow in assembly:
+```
+https://github.com/AFLplusplus/AFLplusplus/blob/master/qemu_mode/patches/afl-qemu-common.h#L54
+```
