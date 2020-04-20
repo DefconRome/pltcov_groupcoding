@@ -31,7 +31,8 @@ The workflow is the following:
 + During the following the week, the best portions of code produced by all will be merged to create the first version of the tool (in another repo of this organization).
 
 ## People
-
+z
 + [**@andreafioraldi**](https://github.com/andreafioraldi)
++ [**@valbrux**](https://github.com/valbrux)
 
 Add yourself here when submitting the pull request.
