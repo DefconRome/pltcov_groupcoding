@@ -2,6 +2,8 @@
 
 Group coding repository of PltCov, a tool to instrument ELF binaries for fuzzing with ngram coverage of imported APIs
 
+Slides: https://docs.google.com/presentation/d/1BqkUwnXPji32ZP2kCcv1Ra1br9hSPb4nQpEzLUdhVsE/edit?usp=sharing
+
 ## Requirements
 
 + git clone https://github.com/AFLplusplus/AFLplusplus
