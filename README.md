@@ -34,5 +34,6 @@ The workflow is the following:
 
 + [**@andreafioraldi**](https://github.com/andreafioraldi)
 + [**@borzacchiello**](https://github.com/borzacchiello)
++ [**@dp1**](https://github.com/dp1)
 
 Add yourself here when submitting the pull request.
