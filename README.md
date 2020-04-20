@@ -6,7 +6,7 @@ Group coding repository of PltCov, a tool to instrument ELF binaries for fuzzing
 
 + git clone https://github.com/AFLplusplus/AFLplusplus
 + pip3 install lief
-+ a working C or C++ compiler
++ clang
 
 ## Useful links
 
